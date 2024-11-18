@@ -1,3 +1,3 @@
 # ecommerce-app
 This is an ecommerce app.
-Auther : Ravi Kumar
+Author : Ravi Kumar
